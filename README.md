@@ -7,5 +7,5 @@ Elephant in the room
 </p>
 
 <p align="center">
-  Tracking Asian Elephants with Intelligence & Purpose
+  Tracking Asian Elephants
 </p>
