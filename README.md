@@ -5,7 +5,7 @@ Elephant in the room
 </p>
 
 <p align="center">
-  <img src="athena.png" width="220"/>
+  <img src="athena.png" width="320"/>
 </p>
 
 <p align="center">
