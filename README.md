@@ -1,7 +1,7 @@
 # Project-Athena-Tracking-Asian-Elephants
 Elephant in the room
 <p align="center">
-  <img src="athena-logo.png" width="280"/>
+  <img src="athena.png" width="280"/>
 </p>
 
 <p align="center">
